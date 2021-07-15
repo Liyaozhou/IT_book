@@ -26,8 +26,12 @@
 Java面试突击    链接：https://pan.baidu.com/s/1Ls9CgvkAXA85F2dJ38g7QQ
 
 阿里巴巴Java面试大全   链接： https://pan.baidu.com/s/1Db8E7W_by8h8jTDY_cnAbg
+
+
 数据结构与算法相关书籍
+
 剑指offer  链接： https://pan.baidu.com/s/1QsYyIpej4IxOBLx_3WW_NA
+
 JAVA数据结构和算法   链接：https://pan.baidu.com/s/1u06yrb6RJbaY35l2l4P7rg
 
 数据结构与算法分析—Java语言 链接：https://pan.baidu.com/s/1nvo_ykmul-uIe6v_0dIzdg
@@ -39,6 +43,8 @@ JAVA数据结构和算法   链接：https://pan.baidu.com/s/1u06yrb6RJbaY35l2l4
 数据结构与算法分析--C语言 链接：https://pan.baidu.com/s/1fYLMWBSn54hl3n3tKJRNEQ
 
 啊哈算法 链接：https://pan.baidu.com/s/149YDN2TycQ20kYv0bTPzGA
+
+
 
 计算机基础
 
@@ -71,6 +77,8 @@ UNIX网络编程  链接：https://pan.baidu.com/s/1R9DYoXtcogJBUusiDiSf6g
 程序是怎样跑起来的  链接：https://pan.baidu.com/s/1RQGemmtH0T-CQwcLfYFfPg
 
 现代操作系统  链接：https://pan.baidu.com/s/1x_p_oZzuLD593lgyj9EBJQ
+
+
 
 python系列
 python操作word,excel,pdf   链接：https://pan.baidu.com/s/1OHdl6ZlpnBQASsgBu1a00g
@@ -133,7 +141,10 @@ Python数据科学手册  链接：https://pan.baidu.com/s/1OHnV5clMBpXVI-0Oi1F0
 
 用Python写网络爬虫  链接：https://pan.baidu.com/s/1p86EyFR9a1p6VPy6mL6b2Q
 
+
+
 人工智能AI系列
+
 计算机视觉
 图像处理分析与机器视觉(第二版)中译本  链接：https://pan.baidu.com/s/1SOJjMLXzKFqNAAbtC5DibQ
 
@@ -196,7 +207,10 @@ AI面试系列
 
 百面_机器学习 算法工程师带你去面试   链接：https://pan.baidu.com/s/10doamwQuJ38sJe8kv0E5pg
 
+
+
 大数据系列
+
 大数据计算
 
 图解Spark++核心技术与案例实战    链接：https://pan.baidu.com/s/1sOquioeycgWDDaM3MGr_Lg
@@ -210,6 +224,7 @@ Flink原理、实战与性能优化.pdf  链接：https://pan.baidu.com/s/1Ch5B-
 Hadoop＋Spark生态系统操作与实战指南.pdf   链接：https://pan.baidu.com/s/1BuBGpePiXDDUMoKn5OtHdg
 
 大数据存储
+
 HBase原理与实践全.pdf   链接：https://pan.baidu.com/s/1xJFXjTFORDiMMfKtNtpcMg
 
 Flume 构建高可用、可扩展的海量日志采集系统.pdf   链接：https://pan.baidu.com/s/1tNFH3wd8_sT7JCdOM2MMQg
@@ -241,10 +256,15 @@ Redis 实战.pdf   链接：https://pan.baidu.com/s/1b3C1CBF4i17px4MFEZzFww
 深入浅出docker异步图书.mobi   链接：https://pan.baidu.com/s/1fgCCOusYJi2c2gJB-wlNRg
 
 大数据调度
+
 《PaaS实现与运维管理：基于Mesos _Docker_ELK的实战指南》 链接：https://pan.baidu.com/s/1wv8Ig1LhmfPl0IO_wPO4Bw
 
 netty redis zookeeper高并发实战   链接： https://pan.baidu.com/s/1p5ygxDGwFv5InoqhetNF_A
+
+
+
 C语言
+
 C Primer Plus    链接： https://pan.baidu.com/s/1-FLbg6e18j8-dn12Q-nnDA
 C和指针  链接：https://pan.baidu.com/s/1rIJLmdPaf1_yHRWJ896-kw
 
@@ -263,7 +283,10 @@ C语言参考手册   链接：https://pan.baidu.com/s/1pTQH7HvJ-FL2kkraGeMbGw
 C语言函数大全   链接：https://pan.baidu.com/s/1y-IbNFTycHNTjS5Fa0WFqw
 
 C语言深度剖析  链接： https://pan.baidu.com/s/1jbxTjiQDoM2iv1hwa3rq0g
+
+
 C++
+
 C++大学教程   链接： https://pan.baidu.com/s/1EDxgG49dDIzi7LNWE4TrjA
 STL源码剖析    链接：https://pan.baidu.com/s/1YblQf8ug7lUnp3xWSjV64w
 
@@ -289,7 +312,10 @@ More Effective C++中文版   链接：https://pan.baidu.com/s/1PZDgEgi2WIaRPuGm
 
 computer version   链接：https://pan.baidu.com/s/1lZn0Xqk_iKN3f13RQBMkTA
 
+
+
 Java
+
 Java基础
 码出高效    链接：https://pan.baidu.com/s/1qCUbpyu0UTkIcbnqPCLbCA
 
@@ -371,7 +397,9 @@ jQuery技术内幕    链接：https://pan.baidu.com/s/1m19oCiOZGPHQAq-ej4f-JQ
 JavaScript DOM编程艺术   链接：https://pan.baidu.com/s/1zgU94ZQw8PAIbjt43Thmvw
 
 HTML5揭秘     链接： https://pan.baidu.com/s/1U5-EB5Bez-_2s4pARL4HKw
+
 JavaScript高级程序设计第3版 中文 高清   链接： https://pan.baidu.com/s/1BP2houfsYEWxAqwHmL1vbg
+
 JavaScript高效图形编程    链接：https://pan.baidu.com/s/1HpqdHHjySTAGjY8cgrEGdg
 
 jQuery权威指南   链接：https://pan.baidu.com/s/1B3jCWwWwv-P4KJsKsT9vZQ
@@ -380,8 +408,12 @@ Node.js开发指南    链接：https://pan.baidu.com/s/1tLuRckum2lCju6xcvb73YQ
 
 HTML5揭秘   链接：https://pan.baidu.com/s/1ECplODxUhH2l0FawoIP-3w
 
+
+
 Linux
+
 Linux系统命令及shell脚本实践指南   链接： https://pan.baidu.com/s/1PR7VSEQtaHKAa9XW_8IaFw
+
 鸟哥的Linux私房菜    链接：https://pan.baidu.com/s/1yTgvUsnjAPc2iTFeAUSg2w
 
 Linux高级程序设计    链接：https://pan.baidu.com/s/1z6z-plM-rCp9cEhWpBgvgg
@@ -400,7 +432,10 @@ Linux环境编程    链接：https://pan.baidu.com/s/14UHOr6QGOtywvfZrLR_ClA
 
 Linux常用命令大全   链接：https://pan.baidu.com/s/1eSAUdKxTgwychX-9J-yswQ
 
+
+
 Go
+
 Go语言实战   链接：https://pan.baidu.com/s/1WXALaiOCIQPQZB3AdQTveQ
 
 Go web编程    链接：https://pan.baidu.com/s/13UQlXf8_ydRqnBRE2QFkfw
@@ -409,7 +444,9 @@ redis实战   链接：https://pan.baidu.com/s/1rqa8qFvpdywxlLaCOIrYcA
 
 学习Go语言    链接：https://pan.baidu.com/s/1FOo3Q7sdGVMKw4JR7aumtA
 
+
 Git
+
 Pro Git 中文版   链接：https://pan.baidu.com/s/1Bd4llyNQdYyNYMDtNnhUVw
 
 快速入门Git    链接：https://pan.baidu.com/s/1VZBCXRkbs36kqHbygaXURQ
