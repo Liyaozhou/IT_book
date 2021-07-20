@@ -1,17 +1,58 @@
-# IT_book
-本项目收藏各类IT技术书籍，包含上千本，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
+# IT_BOOK
 
-博主2020届硕士生，秋招获得多个offer，工作岗位：大数据算法开发工程师。虽然已经毕业工作一年了，但作为一名程序员，收集各类编程书籍是再所难免的。
+#### 介绍
+本项目收藏各类IT技术书籍，包含上千本，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。
+有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，
+程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
 
-个人微信：threeknowbigdata   微信公众号：3分钟秒懂大数据
+#### 目录
+    1、面试宝典
+    2、数据结构与算法相关书籍
+    3、计算机基础
+        3.1、计算机网络
+        3.2、计算机组成原理
+        3.3、汇编语言
+        3.4、操作系统
+    4、python系列
+	4.1、python基础
+	4.2、数据分析与爬虫
+    5、人工智能AI系列
+	5.1、计算机视觉
+	5.2、OpenCv
+	5.3、深度学习框架-pytorch
+	5.4、深度学习框架-keras
+	5.5、深度学习
+	5.6、机器学习实战
+	5.7、理论-周志华（机器学习）李航（统计学原理）等
+	5.8、自然语言处理(NLP)
+	5.9、AI面试系列
+    6、大数据系列
+	6.1、大数据计算
+	6.2、大数据存储
+	6.3、大数据调度
+    7、C语言
+    8、C++
+    9、JAVA
+	9.1、JAVA基础
+	9.2、JAVA进阶
+	9.3、JAVAweb
+    10、设计模式
+    11、数据库
+    12、前端
+    13、Linux
+    14、Go
+    15、GIT
+    16、数字信号
+    17、嵌入式系列
+    18、提升能力
 
-在读研期间，收集了计算机类、非计算机类书籍，现在全部回馈给广大学习爱好者。包含程序员必修内功，算法，python数据分析，linux,Java，机器学习，深度学习，自然语言处理、面试宝典，面试经验等等，还有博主的一些经历与感悟。
 
-现在对各类书籍进行整理，需要的自取
+ **下文的所有提取码都是 1234** 
 
-下文的所有提取码都是 1234
+ 
 
-面试宝典
+### **面试宝典** 
+
 
 面试技巧:     链接：https://pan.baidu.com/s/1OWMHTvWsfGgQhZvkNYQ1kg
 
@@ -27,8 +68,11 @@ Java面试突击    链接：https://pan.baidu.com/s/1Ls9CgvkAXA85F2dJ38g7QQ
 
 阿里巴巴Java面试大全   链接： https://pan.baidu.com/s/1Db8E7W_by8h8jTDY_cnAbg
 
+ 
 
-数据结构与算法相关书籍
+### **数据结构与算法相关书籍** 
+
+
 
 剑指offer  链接： https://pan.baidu.com/s/1QsYyIpej4IxOBLx_3WW_NA
 
@@ -45,10 +89,10 @@ JAVA数据结构和算法   链接：https://pan.baidu.com/s/1u06yrb6RJbaY35l2l4
 啊哈算法 链接：https://pan.baidu.com/s/149YDN2TycQ20kYv0bTPzGA
 
 
+### **计算机基础** 
 
-计算机基础
+ **计算机网络** 
 
-计算机网络
 HTTP权威指南   链接：https://pan.baidu.com/s/1hJvZExzR4SYblIRHGY_Tnw
 
 计算机网络  链接：https://pan.baidu.com/s/1Yovmmfa_X50ubpmWYId1KA
@@ -60,14 +104,17 @@ UNIX网络编程  链接：https://pan.baidu.com/s/1R9DYoXtcogJBUusiDiSf6g
 图解TCP-IP    链接：https://pan.baidu.com/s/1lqpaKJiR2qFMzjhBSOqYog
 
 网络是怎样连接的  链接：https://pan.baidu.com/s/1HQj5lEbc-LPmtD9pA7zXtQ
+ 
+**计算机组成原理** 
 
-计算机组成原理
 计算机是怎样跑起来的   链接：https://pan.baidu.com/s/1tog7vVSS4MifFNOaSBVP2Q
 
-汇编语言
+ **汇编语言** 
+
 汇编语言 王爽  链接：https://pan.baidu.com/s/1UyQboWhEesmihOUhilA73A
 
-操作系统
+ **操作系统** 
+
 深入理解计算机操作系统  链接：https://pan.baidu.com/s/1fsw6p-ew-YthgOvagp3xzQ
 
 30天填自制操作系统   链接：https://pan.baidu.com/s/1w1iyvHG69113Odzad3kpjw
@@ -78,12 +125,13 @@ UNIX网络编程  链接：https://pan.baidu.com/s/1R9DYoXtcogJBUusiDiSf6g
 
 现代操作系统  链接：https://pan.baidu.com/s/1x_p_oZzuLD593lgyj9EBJQ
 
+###  **python系列** 
 
 
-python系列
 python操作word,excel,pdf   链接：https://pan.baidu.com/s/1OHdl6ZlpnBQASsgBu1a00g
 
-python基础
+ **#python基础** 
+
 Python编程：从入门到实践   链接：https://pan.baidu.com/s/1hgSnbu2_pCcp_GNXM_EqUw
 
 Python数据分析基础教程  链接：https://pan.baidu.com/s/1rLRN9myYc2pmt-INSzSq-w
@@ -114,7 +162,8 @@ Python网络编程基础  链接：https://pan.baidu.com/s/1tOIOvETe24jquhu1ViSM
 
 编程小白的第一本Python入门书  链接：https://pan.baidu.com/s/1qAwH3mEJc7IpFdvroSNy7Q
 
-数据分析与爬虫
+ **#数据分析与爬虫** 
+
 《Python For Data Analysis》链接：https://pan.baidu.com/s/1aTjCCq8vqS2faC-G56BmNw
 
 《Python3网络爬虫数据采集》 链接：https://pan.baidu.com/s/10JqvqD3zX5dFJL--unbTEw
@@ -142,33 +191,38 @@ Python数据科学手册  链接：https://pan.baidu.com/s/1OHnV5clMBpXVI-0Oi1F0
 用Python写网络爬虫  链接：https://pan.baidu.com/s/1p86EyFR9a1p6VPy6mL6b2Q
 
 
+###  **人工智能AI系列** 
 
-人工智能AI系列
+ **计算机视觉** 
 
-计算机视觉
 图像处理分析与机器视觉(第二版)中译本  链接：https://pan.baidu.com/s/1SOJjMLXzKFqNAAbtC5DibQ
 
 python计算机视觉   链接：https://pan.baidu.com/s/1k2Eq0fsMSSfvUBe2cBf71w
 
-OpenCv
+ **OpenCv** 
+
 OpenCV-Python-Tutorial-中文版    链接：https://pan.baidu.com/s/1XfLJg_o6Xw-xqXpQbt3fLQ
 
 学习OpenCV 3 中文版   链接：https://pan.baidu.com/s/1v_T1XVTEWz4HfD3Glfgz6g
 
-深度学习框架-tensorflow
+**深度学习框架-tensorflow** 
+
 TensorFlow 实战_黄文坚（完整）   链接：https://pan.baidu.com/s/18ItIHm-cwcVKHbG-ArzTNw
 
 TensorFlow 面向机器智能的TensorFlow实践  链接：https://pan.baidu.com/s/1kZXEP_OlUvwFtKfK53eLHg
 
 TensorFlow 斯坦福大学-深度学习基础教程   链接：https://pan.baidu.com/s/15LbTMkRUOTVTj1LDVhu8TQ
 
-深度学习框架-pytorch
+**深度学习框架-pytorch** 
+
 Programming-PyTorch-for-Deep-Learning   链接：https://pan.baidu.com/s/1YSR4GD_KQdOVqlHdIdjc2Q
 
-深度学习框架-keras
+**深度学习框架-keras** 
+
 Python For Data Science Cheat Sheet Keras    链接：https://pan.baidu.com/s/1CY4WZoKbp5xJl9M3QQePVg
 
-深度学习
+**深度学习** 
+
 deeplearning深度学习笔记   链接：https://pan.baidu.com/s/14v5f3poc__tSe5LwHuRF2w
 
 深度学习_中文版    链接：https://pan.baidu.com/s/1cA1BOfLL32VZfVvS6rPzxg
@@ -179,19 +233,22 @@ deeplearning深度学习笔记   链接：https://pan.baidu.com/s/14v5f3poc__tSe
 
 深度学习(最全的中文版)   链接：https://pan.baidu.com/s/1yTWaHoNqEUbG5x_bqdItnA
 
-机器学习实战
+**机器学习实战** 
+
 机器学习实战（附所有代码）   链接：https://pan.baidu.com/s/1kh93PBoz_KjjrXU7DvO_Gg
 
 PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路   链接：https://pan.baidu.com/s/1vLU9ObsasGyhPQWPlSC2uw
 
 贝叶斯思维统计建模的Python学习法   链接：https://pan.baidu.com/s/1-rKFrnpMJl9_pCNCBBdJ_g
 
-理论-周志华（机器学习）李航（统计学原理）等
+**理论-周志华（机器学习）李航（统计学原理）等** 
+
 机器学习_周志华    链接：https://pan.baidu.com/s/1knzM-KTZnwF3FsE-oeyq1Q
 
 统计学习方法-李航   链接：https://pan.baidu.com/s/1mHy_Rm4A-xBGxcX-_uU06w
 
-自然语言处理(NLP)
+**自然语言处理(NLP)** 
+
 语音与语言处理Speech+and+Language+Processing   链接：https://pan.baidu.com/s/1fvSiFlz_EvMq2Nc4mTPdAQ
 
 deep_learning_for_nlp    链接：https://pan.baidu.com/s/1KVEPI7INqJUtwdnJDnwz-g
@@ -200,18 +257,20 @@ Embedding Methods for NLP emnlp tutorial   链接：https://pan.baidu.com/s/1aya
 
 PYTHON自然语言处理中文翻译 NLTK 中文版   链接：https://pan.baidu.com/s/1Ryk5YZMzkS6QERWcPcv0Uw
 
-AI面试系列
+
+###  **AI面试系列** 
+
+
 机器学习   链接：https://pan.baidu.com/s/1knzM-KTZnwF3FsE-oeyq1Q
 
 机器学习常见面试题   链接：https://pan.baidu.com/s/1wrRjBIPgrIMNVHHIzb9QRw
 
 百面_机器学习 算法工程师带你去面试   链接：https://pan.baidu.com/s/10doamwQuJ38sJe8kv0E5pg
 
+###  **大数据系列**
 
-
-大数据系列
-
-大数据计算
+ 
+**大数据计算** 
 
 图解Spark++核心技术与案例实战    链接：https://pan.baidu.com/s/1sOquioeycgWDDaM3MGr_Lg
 
@@ -223,7 +282,7 @@ Flink原理、实战与性能优化.pdf  链接：https://pan.baidu.com/s/1Ch5B-
 
 Hadoop＋Spark生态系统操作与实战指南.pdf   链接：https://pan.baidu.com/s/1BuBGpePiXDDUMoKn5OtHdg
 
-大数据存储
+**大数据存储** 
 
 HBase原理与实践全.pdf   链接：https://pan.baidu.com/s/1xJFXjTFORDiMMfKtNtpcMg
 
@@ -255,17 +314,17 @@ Redis 实战.pdf   链接：https://pan.baidu.com/s/1b3C1CBF4i17px4MFEZzFww
 
 深入浅出docker异步图书.mobi   链接：https://pan.baidu.com/s/1fgCCOusYJi2c2gJB-wlNRg
 
-大数据调度
+**大数据调度** 
 
 《PaaS实现与运维管理：基于Mesos _Docker_ELK的实战指南》 链接：https://pan.baidu.com/s/1wv8Ig1LhmfPl0IO_wPO4Bw
 
 netty redis zookeeper高并发实战   链接： https://pan.baidu.com/s/1p5ygxDGwFv5InoqhetNF_A
 
+###  **C语言** 
 
-
-C语言
 
 C Primer Plus    链接： https://pan.baidu.com/s/1-FLbg6e18j8-dn12Q-nnDA
+
 C和指针  链接：https://pan.baidu.com/s/1rIJLmdPaf1_yHRWJ896-kw
 
 C专家编程  链接：https://pan.baidu.com/s/1l4dFOUyosEL8Kdn1iVxnzw
@@ -284,10 +343,11 @@ C语言函数大全   链接：https://pan.baidu.com/s/1y-IbNFTycHNTjS5Fa0WFqw
 
 C语言深度剖析  链接： https://pan.baidu.com/s/1jbxTjiQDoM2iv1hwa3rq0g
 
+### **C++** 
 
-C++
 
 C++大学教程   链接： https://pan.baidu.com/s/1EDxgG49dDIzi7LNWE4TrjA
+
 STL源码剖析    链接：https://pan.baidu.com/s/1YblQf8ug7lUnp3xWSjV64w
 
 C++编程思想   链接：https://pan.baidu.com/s/1ytGCVJT-2J4WM8CXEQVyHg
@@ -312,11 +372,11 @@ More Effective C++中文版   链接：https://pan.baidu.com/s/1PZDgEgi2WIaRPuGm
 
 computer version   链接：https://pan.baidu.com/s/1lZn0Xqk_iKN3f13RQBMkTA
 
+###  **Java** 
 
 
-Java
+**Java基础** 
 
-Java基础
 码出高效    链接：https://pan.baidu.com/s/1qCUbpyu0UTkIcbnqPCLbCA
 
 Head First Java     链接：https://pan.baidu.com/s/1452B-x_xLIBEKilYdK1jyw
@@ -335,7 +395,8 @@ Java并发编程的艺术     链接：https://pan.baidu.com/s/12LpwrUE8sb3rTMHA
 
 阿里巴巴Java开发手册     链接：https://pan.baidu.com/s/1Y2hk3OtaKJ-r1gCqb7-v6w
 
-Java进阶
+**Java进阶** 
+
 代码大全    链接：https://pan.baidu.com/s/1Dz1qMbCHWFQ6__ZDaiHucw
 
 Java性能优化权威指南    链接：https://pan.baidu.com/s/18wHFYU3UBECINOdpX2gGrQ
@@ -348,7 +409,8 @@ Effective Java    链接：https://pan.baidu.com/s/1n9_CbFncGafpCDoQQn593w
 
 Effective Java（英文版）   链接：https://pan.baidu.com/s/1SV2Xoxs9J4MrtB6HB_3v2w
 
-JavaWeb
+**JavaWeb** 
+
 轻量级JavaEE企业应用实战    链接：https://pan.baidu.com/s/1ggkU-gniS8ZMI5F6HpCeAg
 
 Head First Servlet and JSP     链接：https://pan.baidu.com/s/1bzmXMEvEq1zTY8YNGpkPrQ
@@ -363,14 +425,18 @@ Spring实战    链接：https://pan.baidu.com/s/1qWItVlfYZAUY2HY_c8qLCQ
 
 Camel in Action    链接：https://pan.baidu.com/s/1D8I4dw0I8sVIAHqvPAsvFA
 
-设计模式
+### **设计模式** 
+
+
 研磨设计模式    链接：https://pan.baidu.com/s/1XI1Vbj-dWEFvPjLPyDq5GQ
 
 图解设计模式      链接：https://pan.baidu.com/s/11DSm8LfDLdGaLu7MFBNB0g
 
 Head First设计模式《important》   链接：https://pan.baidu.com/s/1_H4WIL2ut-MuVPRNzwmsqg
 
-数据库
+###  **数据库** 
+
+
 SQL查询的艺术    链接：https://pan.baidu.com/s/19Xf5TVzPE9jyKv9Bgs6YpA
 
 MySQL必知必会   链接：https://pan.baidu.com/s/1f4dG-wS0iBdI1fgHZWr-ZA
@@ -383,7 +449,9 @@ MongoDB权威指南   链接：https://pan.baidu.com/s/1mc2k9r-YNIgJ32UxrHFcvg
 
 SQLite 权威指南    链接：https://pan.baidu.com/s/1r2RkrBIFEVLlC0yFTX08JQ
 
-前端
+###  **前端** 
+
+
 HTML5与CSS3基础教程    链接：https://pan.baidu.com/s/1w5_PuaCic3Gcv4TLlstWHg
 
 Bootstrap实战   链接：https://pan.baidu.com/s/1OBvyJDtgsdcJA9JfNY0Bpw
@@ -408,9 +476,8 @@ Node.js开发指南    链接：https://pan.baidu.com/s/1tLuRckum2lCju6xcvb73YQ
 
 HTML5揭秘   链接：https://pan.baidu.com/s/1ECplODxUhH2l0FawoIP-3w
 
+###  **Linux** 
 
-
-Linux
 
 Linux系统命令及shell脚本实践指南   链接： https://pan.baidu.com/s/1PR7VSEQtaHKAa9XW_8IaFw
 
@@ -432,9 +499,8 @@ Linux环境编程    链接：https://pan.baidu.com/s/14UHOr6QGOtywvfZrLR_ClA
 
 Linux常用命令大全   链接：https://pan.baidu.com/s/1eSAUdKxTgwychX-9J-yswQ
 
+###  **Go** 
 
-
-Go
 
 Go语言实战   链接：https://pan.baidu.com/s/1WXALaiOCIQPQZB3AdQTveQ
 
@@ -444,8 +510,8 @@ redis实战   链接：https://pan.baidu.com/s/1rqa8qFvpdywxlLaCOIrYcA
 
 学习Go语言    链接：https://pan.baidu.com/s/1FOo3Q7sdGVMKw4JR7aumtA
 
+###  **Git** 
 
-Git
 
 Pro Git 中文版   链接：https://pan.baidu.com/s/1Bd4llyNQdYyNYMDtNnhUVw
 
@@ -455,13 +521,19 @@ Pro Git 中文版   链接：https://pan.baidu.com/s/1Bd4llyNQdYyNYMDtNnhUVw
 
 Git参考手册    链接：https://pan.baidu.com/s/1WIJFEZ5k-XDqx8V6UFc3jQ
 
-数字信号
+###  **数字信号** 
+
+
 数字信号处理教程 第3版   链接：https://pan.baidu.com/s/1hmL9zlQQsxA7WhlyKIDvwg
 
-嵌入式系列
-嵌入式大集合   链接：https://pan.baidu.com/s/1_WDHvspoEcq0GN75HwdwPw
+###  **嵌入式系列**
+ 
 
-提升能力
+嵌入式大集合   链接：https://pan.baidu.com/s/1_WDHvspoEcq0GN75HwdwPw
+ 
+### **提升能力**
+ 
+
 重构：改善既有代码的设计（第2版）   链接：https://pan.baidu.com/s/1FPkBaXqxKikZzLP78N5Rng
 
 面试技巧:     链接：https://pan.baidu.com/s/1OWMHTvWsfGgQhZvkNYQ1kg
