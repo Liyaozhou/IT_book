@@ -6,45 +6,46 @@
 程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
 
 #### 目录
-    1、面试宝典
-    2、数据结构与算法相关书籍
-    3、计算机基础
-        3.1、计算机网络
-        3.2、计算机组成原理
-        3.3、汇编语言
-        3.4、操作系统
-    4、python系列
-	4.1、python基础
-	4.2、数据分析与爬虫
-    5、人工智能AI系列
-	5.1、计算机视觉
-	5.2、OpenCv
-	5.3、深度学习框架-pytorch
-	5.4、深度学习框架-keras
-	5.5、深度学习
-	5.6、机器学习实战
-	5.7、理论-周志华（机器学习）李航（统计学原理）等
-	5.8、自然语言处理(NLP)
-	5.9、AI面试系列
-    6、大数据系列
-	6.1、大数据计算
-	6.2、大数据存储
-	6.3、大数据调度
-    7、C语言
-    8、C++
-    9、JAVA
-	9.1、JAVA基础
-	9.2、JAVA进阶
-	9.3、JAVAweb
-    10、设计模式
-    11、数据库
-    12、前端
-    13、Linux
-    14、Go
-    15、GIT
-    16、数字信号
-    17、嵌入式系列
-    18、提升能力
+
+	1、面试宝典
+	2、数据结构与算法相关书籍
+	3、计算机基础
+		3.1、计算机网络
+		3.2、计算机组成原理
+		3.3、汇编语言
+		3.4、操作系统
+	4、python系列
+		4.1、python基础
+		4.2、数据分析与爬虫
+	5、人工智能AI系列
+		5.1、计算机视觉
+		5.2、OpenCv
+		5.3、深度学习框架-pytorch
+		5.4、深度学习框架-keras
+		5.5、深度学习
+		5.6、机器学习实战
+		5.7、理论-周志华（机器学习）李航（统计学原理）等
+		5.8、自然语言处理(NLP)
+		5.9、AI面试系列
+	6、大数据系列
+		6.1、大数据计算
+		6.2、大数据存储
+		6.3、大数据调度
+	7、C语言
+	8、C++
+	9、JAVA
+		9.1、JAVA基础
+		9.2、JAVA进阶
+		9.3、JAVAweb
+	10、设计模式
+	11、数据库
+	12、前端
+	13、Linux
+	14、Go
+	15、GIT
+	16、数字信号
+	17、嵌入式系列
+	18、提升能力
 
 
  **下文的所有提取码都是 1234** 
@@ -130,7 +131,7 @@ UNIX网络编程  链接：https://pan.baidu.com/s/1R9DYoXtcogJBUusiDiSf6g
 
 python操作word,excel,pdf   链接：https://pan.baidu.com/s/1OHdl6ZlpnBQASsgBu1a00g
 
- **#python基础** 
+ **python基础** 
 
 Python编程：从入门到实践   链接：https://pan.baidu.com/s/1hgSnbu2_pCcp_GNXM_EqUw
 
@@ -162,7 +163,7 @@ Python网络编程基础  链接：https://pan.baidu.com/s/1tOIOvETe24jquhu1ViSM
 
 编程小白的第一本Python入门书  链接：https://pan.baidu.com/s/1qAwH3mEJc7IpFdvroSNy7Q
 
- **#数据分析与爬虫** 
+ **数据分析与爬虫** 
 
 《Python For Data Analysis》链接：https://pan.baidu.com/s/1aTjCCq8vqS2faC-G56BmNw
 
@@ -320,8 +321,8 @@ Redis 实战.pdf   链接：https://pan.baidu.com/s/1b3C1CBF4i17px4MFEZzFww
 
 netty redis zookeeper高并发实战   链接： https://pan.baidu.com/s/1p5ygxDGwFv5InoqhetNF_A
 
-###  **C语言** 
 
+###  **C语言** 
 
 C Primer Plus    链接： https://pan.baidu.com/s/1-FLbg6e18j8-dn12Q-nnDA
 
